@@ -20,11 +20,13 @@ body {
 
 .left {
   display: flex;
-  align-self: flex-start;
+  align-self: center;
+  gap: 1rem;
 }
 
 .right {
   display: flex;
+  align-self: center;
   gap: 1rem;
 }
 
